@@ -21,7 +21,7 @@ namespace Exercício_10.sln
             else
                 MessageBox.Show("Acesso inválido");
         }
-
+        //clash
         private void button2_Click(object sender, EventArgs e)
         {
             passwordcerta = Interaction.InputBox("Insira a nova palavra-passe");
